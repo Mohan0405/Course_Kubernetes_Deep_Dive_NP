@@ -17,7 +17,7 @@ spec:
         app: web
     spec:
       containers:
-      - image: nigelpoulton/acg-web:0.1
-        name: web-ctr
+      - image: httpd:2.4
+        name: httpd
         ports:
         - containerPort: 8080
