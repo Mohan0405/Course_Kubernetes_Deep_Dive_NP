@@ -38,4 +38,3 @@ spec:
         image: nigelpoulton/acg-web:0.1
         ports:
         - containerPort: 8080
-nigelpoulton/acg-web:0.1
