@@ -35,6 +35,6 @@ spec:
     spec:
       containers:
       - name: hello-pod
-        image: nigelpoulton/acg-web:0.1
+        image: 337004596259.dkr.ecr.us-east-1.amazonaws.com/kube:latest
         ports:
         - containerPort: 8080
